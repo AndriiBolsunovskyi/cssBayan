@@ -1,1 +1,1 @@
-https://andriibolsunovskyi.github.io/cssBayan/cssBayan/index.html
+https://andriibolsunovskyi.github.io/cssBayan/cssBayan/
